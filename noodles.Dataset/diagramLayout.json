@@ -1,0 +1,230 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 103.92857142857143
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 2177.9572930760851,
+            "y": 224.00982001267721
+          },
+          "nodeIndex": "Cuisine Types",
+          "nodeLineageTag": "42727963-7184-4fd7-87dd-818e10bda83a",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 603.748284510377,
+            "y": 465.71428571428572
+          },
+          "nodeIndex": "Meal Kits",
+          "nodeLineageTag": "f3ae258a-dfb6-4452-803c-dece0d8209ab",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1010.5287216475133,
+            "y": 0
+          },
+          "nodeIndex": "payments",
+          "nodeLineageTag": "362115a6-9e26-406c-9396-186959e693aa",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2228.8144359332277,
+            "y": 0.99535973839755343
+          },
+          "nodeIndex": "Payments - 2020",
+          "nodeLineageTag": "92c42c54-b3d2-4fc6-a914-329fd61211d4",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1994.2430073617991,
+            "y": 0
+          },
+          "nodeIndex": "Payments - 2021",
+          "nodeLineageTag": "ef35f360-82f8-4e12-8de0-be330f3c7992",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1010.0000000000002,
+            "y": 493.99071947679522
+          },
+          "nodeIndex": "Reviews",
+          "nodeLineageTag": "8edc2bcf-1e0a-41a3-a1d5-ab941e9d4c19",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1390.0431184586942,
+            "y": 48.142373777547959
+          },
+          "nodeIndex": "Shipping Details",
+          "nodeLineageTag": "91fd16f4-7c88-489f-8e90-ccd909d94635",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 531.42857142857144
+          },
+          "nodeIndex": "Subscription Plans",
+          "nodeLineageTag": "7f607be6-1cbb-4855-9b79-a032169c43c7",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 220.13821688125478
+          },
+          "nodeIndex": "CalendarTable",
+          "nodeLineageTag": "623f7871-1e56-4350-8f97-26481da109e3",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 607.95729307608462,
+            "y": 149.28107402411189
+          },
+          "nodeIndex": "Customers",
+          "nodeLineageTag": "debced2d-40f0-4f7a-baa1-fb81385929f6",
+          "size": {
+            "height": 234,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1006.2430073617986,
+            "y": 215.85250259554044
+          },
+          "nodeIndex": "Shipments",
+          "nodeLineageTag": "770857a0-92a6-402c-bf02-d903e94dc386",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "States",
+          "nodeLineageTag": "094a4fe2-f9e2-4cc4-b16b-16e21716e8eb",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 2512.8144359332277,
+            "y": 0
+          },
+          "nodeIndex": "MeasuresTable",
+          "nodeLineageTag": "a6bcc8ab-49ec-4bd7-b33b-394cad865f4f",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2796.8144359332277,
+            "y": 313.71428571428572
+          },
+          "nodeIndex": "MeasureNames",
+          "nodeLineageTag": "6be11f4f-dfe9-4ac7-9801-daa13f8923e2",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3080.8144359332277,
+            "y": 253.71428571428572
+          },
+          "nodeIndex": "NoOfMonths",
+          "nodeLineageTag": "b8ef039d-fca4-4340-aea3-56f722fbc7e2",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3648.8144359332277,
+            "y": 253.71428571428572
+          },
+          "nodeIndex": "AnnualGrowthRate 2",
+          "nodeLineageTag": "56b72429-c5fa-4d0d-9db9-daf039243225",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 70,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
